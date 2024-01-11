@@ -1,4 +1,4 @@
-# Instances
+# PracticalInstances
 The instances are modified instances from Krebs et al. (2021). 
 
 The name of each file consists in four elements:
