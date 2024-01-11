@@ -14,10 +14,10 @@ The structure of an instance is as follows:
 4. the number of item types
 5. the number of vehicles (fleet size)
 6. a boolean stated if time windows are considered
-7. Description of the vehicle type (weight, length, width, height) and the maximum working (driving, waiting, service) duration of the driver
-8. Customers information: id of the customer - x location - y location - total demand - ReadyTime - DueDate - ServiceTime - DemandedMass
-9. Items information : type id - length - width - height - mass - fragility
-10. Demands per customers: the customer id followed by the box type and the associated quantity
+7. description of the vehicle type (weight, length, width, height) and the maximum working (driving, waiting, service) duration of the driver
+8. customers information: id of the customer - x location - y location - total demand - ReadyTime - DueDate - ServiceTime - DemandedMass
+9. items information : type id - length - width - height - mass - fragility
+10. demands per customers: the customer id followed by the box type and the associated quantity
 
 
 **References**
