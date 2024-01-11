@@ -1,5 +1,5 @@
 # Practical Instances
-The instances are modified instances from Krebs et al. (2021). 
+The 240 instances are modified instances from Krebs et al. (2021). 
 
 The name of each file consists in four elements:
 - the instance number
